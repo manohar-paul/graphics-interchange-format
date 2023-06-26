@@ -1,0 +1,1 @@
+# graphics-interchange-format
